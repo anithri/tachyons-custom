@@ -1,3 +1,5 @@
+
+
 # TACHYONS CUSTOM
 
 You can find a generator for these themes at https://components.ai/tachyons-theme
@@ -8,6 +10,12 @@ Quickly build and design new UI without writing css.
 
 This is a fork of [Tachyons](https://github.com/tachyons-css/tachyons) with values being
 configurable in a single variables file. More information about Tachyons can be found at http://tachyons.io
+
+## Anithri's Fork
+I like to use tachyons variables and default settings, while not using most of the tachyon's classes.  This fork is an 
+edit of the tachyons source to remove all the classes I don't use.
+
+Much of the media functionality is lost, but I don't use it anyway.
 
 ##### src/_variables.css
 ```
